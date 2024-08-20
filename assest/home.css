@@ -373,6 +373,7 @@ label{
     .form-select option{
         width: fit-content !important;
         height: fit-content !important;
+        margin-left: 50px;
     }
   
 

@@ -222,8 +222,8 @@ label{
       
     }
     .cardCar{
-      width: 400px !important;
-      height: 400px !important;
+      width: fit-content !important;
+      height: fit-content !important;
       display: flex;
       flex-direction: column;
       justify-content: center !important;
@@ -239,10 +239,10 @@ label{
     }
     .cardCar .card-title{
         color: #CFB991;
-        font-size: 1rem;
+        font-size: 20px;
     }
     .cardCar .card-text{
-        font-size: 1rem;
+        font-size: 20px;
     }
     .cardCar a{
         width: 100px;

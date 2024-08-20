@@ -154,8 +154,8 @@ label{
 
 @media only screen and (max-width: 768px){
     .bodyContent{
-        width: 350px;
-        height: 420px;
+        width: fit-content;
+        height: fit-content;
         z-index: 0;
     padding: 50px;
     position: relative;

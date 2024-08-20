@@ -370,10 +370,10 @@ label{
         height: fit-content !important;
         padding: 20px;
     }
-    .form-select option{
+    .form-select {
         width: fit-content !important;
         height: fit-content !important;
-        margin-left: 20px;
+       margin-left: 30px;
     }
   
 

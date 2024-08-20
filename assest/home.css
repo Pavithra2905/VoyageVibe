@@ -366,6 +366,12 @@ label{
     
     .description{
         margin-left: 70px;
+        width: fit-content !important;
+        height: fit-content !important;
+    }
+    .form-select{
+        width: fit-content !important;
+        height: fit-content !important;
     }
   
 
